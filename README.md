@@ -24,29 +24,22 @@
 ## Context and Objective
       
    A tour company requested the following information about shark attacks.
-       
-       - Top 10 countries with the most shark attacks.
-       
-       - In each country the 3 locations where the most attacks took place.
-       
-       - The 4 most dangerous water activities.
-       
-       - The 6 months that has the most attacks over the years.
-       
-       - The evolution of shark attacks over the past 50 years.
+    
+   - Top 10 countries with the most shark attacks.
+   - In each country the 3 locations where the most attacks took place.
+   - The 4 most dangerous water activities.
+   - The 6 months that has the most attacks over the years.
+   - The evolution of shark attacks over the past 50 years.
        
 ## Steps
     
-    - Data Quality 
-    - Data Cleaning
-    - Data Analysis 
-    - Used Regex to standardize information
-    - Data Visualization
+   - Data Quality 
+   - Data Cleaning
+   - Data Analysis 
+   - Used Regex to standardize information
+   - Data Visualization
 
 ## Conclusion
-
-
-
 
 
 
