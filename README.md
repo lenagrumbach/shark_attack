@@ -2,7 +2,7 @@
  Project status(Completed)
  
 ## Project objective
-  Data cleaning and analysis 
+  Practice data cleaning and analysis 
 
 ## Methods
   - Cleaning
@@ -10,7 +10,7 @@
   - Grouping
   - Visualization
   
-## Technologies 
+## Libraries 
   - Pandas
   - Regex
   - Matplotlib.pyplot as plt
@@ -64,4 +64,11 @@
 ✅ The evolution of shark attacks over the past 50 years.
 
 ![image](https://user-images.githubusercontent.com/112282677/203810169-6e128de7-95cd-410f-9df8-c3d725a7c575.png)
+
+
+📫 If you have any questions or comments, please let me know!
+    
+    https://www.linkedin.com/in/lenagrumbach/
+    
+    lenagrumbach@gmail.com
 
